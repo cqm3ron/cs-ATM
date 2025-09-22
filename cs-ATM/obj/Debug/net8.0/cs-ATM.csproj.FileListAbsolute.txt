@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\bin\Debug\net8.0\cs-ATM.exe
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\bin\Debug\net8.0\cs-ATM.deps.json
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\bin\Debug\net8.0\cs-ATM.runtimeconfig.json
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\bin\Debug\net8.0\cs-ATM.dll
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\bin\Debug\net8.0\cs-ATM.pdb
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.AssemblyInfo.cs
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.sourcelink.json
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.dll
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\refint\cs-ATM.dll
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.pdb
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\cs-ATM.genruntimeconfig.cache
+D:\Documents\Visual Studio 2022\Programs\cs-ATM\cs-ATM\obj\Debug\net8.0\ref\cs-ATM.dll
