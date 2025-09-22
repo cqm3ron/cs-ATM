@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cs-ATM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2be0f3768dead767b2812d235d5234046b8b5b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d1cc83b8ba5ca4571666a2a38d8273de5620e35")]
 [assembly: System.Reflection.AssemblyProductAttribute("cs-ATM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cs-ATM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
